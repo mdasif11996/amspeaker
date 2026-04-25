@@ -1,0 +1,340 @@
+2026-04-25 21:58:16,899 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 21:58:18,032 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 21:58:18,038 - __main__ - INFO - generate_dynamic_topics executed in 0.93 seconds
+2026-04-25 21:58:18,497 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 21:58:18,498 - __main__ - INFO - generate_dynamic_topics executed in 0.44 seconds
+2026-04-25 21:58:29,627 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 21:58:38,446 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 21:58:40,333 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 21:58:40,334 - __main__ - ERROR - Error fetching daily content: invalid syntax (<unknown>, line 1)
+2026-04-25 21:58:40,334 - __main__ - INFO - fetch_daily_content_from_internet executed in 1.89 seconds
+2026-04-25 21:58:43,101 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 21:58:45,040 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 21:58:45,041 - __main__ - ERROR - Error fetching daily content: invalid syntax (<unknown>, line 1)
+2026-04-25 21:58:45,041 - __main__ - INFO - fetch_daily_content_from_internet executed in 1.94 seconds
+2026-04-25 21:58:52,265 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 21:58:54,165 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 21:58:54,166 - __main__ - ERROR - Error fetching daily content: invalid syntax (<unknown>, line 1)
+2026-04-25 21:58:54,166 - __main__ - INFO - fetch_daily_content_from_internet executed in 1.90 seconds
+2026-04-25 21:58:55,294 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 21:58:57,104 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 21:58:57,104 - __main__ - ERROR - Error fetching daily content: invalid syntax (<unknown>, line 1)
+2026-04-25 21:58:57,105 - __main__ - INFO - fetch_daily_content_from_internet executed in 1.81 seconds
+2026-04-25 21:59:39,871 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 21:59:42,280 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 21:59:42,281 - __main__ - ERROR - Error fetching daily content: invalid syntax (<unknown>, line 1)
+2026-04-25 21:59:42,281 - __main__ - INFO - fetch_daily_content_from_internet executed in 2.41 seconds
+2026-04-25 21:59:42,689 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 21:59:45,088 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 21:59:45,089 - __main__ - ERROR - Error fetching daily content: invalid syntax (<unknown>, line 1)
+2026-04-25 21:59:45,089 - __main__ - INFO - fetch_daily_content_from_internet executed in 2.40 seconds
+2026-04-25 21:59:50,464 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 21:59:52,507 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 21:59:52,509 - __main__ - ERROR - Error fetching daily content: invalid syntax (<unknown>, line 1)
+2026-04-25 21:59:52,509 - __main__ - INFO - fetch_daily_content_from_internet executed in 2.04 seconds
+2026-04-25 21:59:55,108 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:00:06,901 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:00:09,751 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:00:09,752 - __main__ - ERROR - Error fetching daily content: invalid syntax (<unknown>, line 1)
+2026-04-25 22:00:09,752 - __main__ - INFO - fetch_daily_content_from_internet executed in 2.85 seconds
+2026-04-25 22:00:12,169 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:00:23,145 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:00:23,228 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:00:25,298 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:00:25,301 - __main__ - ERROR - Error fetching daily content: invalid syntax (<unknown>, line 1)
+2026-04-25 22:00:25,301 - __main__ - INFO - fetch_daily_content_from_internet executed in 2.07 seconds
+2026-04-25 22:00:27,504 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:00:28,148 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:00:28,149 - __main__ - INFO - AI response generated successfully for user: Take it with a grain of salt...
+2026-04-25 22:00:28,150 - __main__ - INFO - ask_ai_teacher executed in 0.64 seconds
+2026-04-25 22:00:28,150 - __main__ - INFO - History saved for topic: News Vocabulary
+2026-04-25 22:00:28,150 - __main__ - INFO - Interaction: conversation (Total: 1)
+2026-04-25 22:01:13,365 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:01:15,746 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:01:15,747 - __main__ - ERROR - Error fetching daily content: invalid syntax (<unknown>, line 1)
+2026-04-25 22:01:15,747 - __main__ - INFO - fetch_daily_content_from_internet executed in 2.38 seconds
+2026-04-25 22:01:20,979 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:01:23,697 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:01:23,698 - __main__ - ERROR - Error fetching daily content: invalid syntax (<unknown>, line 1)
+2026-04-25 22:01:23,698 - __main__ - INFO - fetch_daily_content_from_internet executed in 2.72 seconds
+2026-04-25 22:03:06,604 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:03:07,666 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:03:07,672 - __main__ - INFO - generate_dynamic_topics executed in 0.86 seconds
+2026-04-25 22:03:08,109 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:03:08,109 - __main__ - INFO - generate_dynamic_topics executed in 0.42 seconds
+2026-04-25 22:03:22,465 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:03:22,471 - __main__ - INFO - Auto-update for speaking vocabulary enabled
+2026-04-25 22:03:25,237 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:03:27,768 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:03:27,769 - __main__ - ERROR - Error fetching daily speaking vocabulary: invalid syntax (<unknown>, line 1)
+2026-04-25 22:03:27,769 - __main__ - INFO - fetch_daily_content_from_internet executed in 2.53 seconds
+2026-04-25 22:03:30,246 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:03:30,246 - __main__ - ERROR - Error fetching daily speaking vocabulary: invalid syntax (<unknown>, line 1)
+2026-04-25 22:03:30,247 - __main__ - INFO - fetch_daily_content_from_internet executed in 2.47 seconds
+2026-04-25 22:04:15,764 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:04:17,639 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:04:17,640 - __main__ - INFO - Daily speaking vocabulary fetched successfully
+2026-04-25 22:04:17,640 - __main__ - INFO - fetch_daily_content_from_internet executed in 1.88 seconds
+2026-04-25 22:04:17,641 - __main__ - ERROR - Error in update_daily_content: name 'VOCAB' is not defined
+2026-04-25 22:04:17,642 - __main__ - ERROR - Traceback (most recent call last):
+  File "c:\streamlit_app\app.py", line 32, in wrapper
+    return func(*args, **kwargs)
+  File "c:\streamlit_app\app.py", line 365, in update_daily_content
+    "vocabulary": content.get("vocabulary", VOCAB),
+                                            ^^^^^
+NameError: name 'VOCAB' is not defined
+
+2026-04-25 22:04:19,762 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:04:27,605 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:04:29,364 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:04:29,365 - __main__ - INFO - Daily speaking vocabulary fetched successfully
+2026-04-25 22:04:29,365 - __main__ - INFO - fetch_daily_content_from_internet executed in 1.76 seconds
+2026-04-25 22:04:29,365 - __main__ - ERROR - Error in update_daily_content: name 'VOCAB' is not defined
+2026-04-25 22:04:29,366 - __main__ - ERROR - Traceback (most recent call last):
+  File "c:\streamlit_app\app.py", line 32, in wrapper
+    return func(*args, **kwargs)
+  File "c:\streamlit_app\app.py", line 365, in update_daily_content
+    "vocabulary": content.get("vocabulary", VOCAB),
+                                            ^^^^^
+NameError: name 'VOCAB' is not defined
+
+2026-04-25 22:04:36,657 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:04:38,341 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:04:38,342 - __main__ - INFO - Daily speaking vocabulary fetched successfully
+2026-04-25 22:04:38,342 - __main__ - INFO - fetch_daily_content_from_internet executed in 1.68 seconds
+2026-04-25 22:04:38,343 - __main__ - ERROR - Error in update_daily_content: name 'VOCAB' is not defined
+2026-04-25 22:04:38,343 - __main__ - ERROR - Traceback (most recent call last):
+  File "c:\streamlit_app\app.py", line 32, in wrapper
+    return func(*args, **kwargs)
+  File "c:\streamlit_app\app.py", line 365, in update_daily_content
+    "vocabulary": content.get("vocabulary", VOCAB),
+                                            ^^^^^
+NameError: name 'VOCAB' is not defined
+
+2026-04-25 22:04:41,873 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:04:43,933 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:04:43,934 - __main__ - INFO - Daily speaking vocabulary fetched successfully
+2026-04-25 22:04:43,934 - __main__ - INFO - fetch_daily_content_from_internet executed in 2.06 seconds
+2026-04-25 22:04:43,935 - __main__ - ERROR - Error in update_daily_content: name 'VOCAB' is not defined
+2026-04-25 22:04:43,935 - __main__ - ERROR - Traceback (most recent call last):
+  File "c:\streamlit_app\app.py", line 32, in wrapper
+    return func(*args, **kwargs)
+  File "c:\streamlit_app\app.py", line 365, in update_daily_content
+    "vocabulary": content.get("vocabulary", VOCAB),
+                                            ^^^^^
+NameError: name 'VOCAB' is not defined
+
+2026-04-25 22:04:44,950 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:04:52,243 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:04:54,376 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:04:54,377 - __main__ - INFO - Daily speaking vocabulary fetched successfully
+2026-04-25 22:04:54,377 - __main__ - INFO - fetch_daily_content_from_internet executed in 2.13 seconds
+2026-04-25 22:04:54,377 - __main__ - ERROR - Error in update_daily_content: name 'VOCAB' is not defined
+2026-04-25 22:04:54,378 - __main__ - ERROR - Traceback (most recent call last):
+  File "c:\streamlit_app\app.py", line 32, in wrapper
+    return func(*args, **kwargs)
+  File "c:\streamlit_app\app.py", line 365, in update_daily_content
+    "vocabulary": content.get("vocabulary", VOCAB),
+                                            ^^^^^
+NameError: name 'VOCAB' is not defined
+
+2026-04-25 22:04:56,588 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:04:56,589 - __main__ - INFO - Daily speaking vocabulary fetched successfully
+2026-04-25 22:04:56,589 - __main__ - INFO - fetch_daily_content_from_internet executed in 2.20 seconds
+2026-04-25 22:04:56,590 - __main__ - INFO - Daily speaking vocabulary updated successfully
+2026-04-25 22:04:56,590 - __main__ - INFO - Interaction: daily_content_update (Total: 1)
+2026-04-25 22:04:56,591 - __main__ - INFO - Interaction: manual_vocabulary_update (Total: 2)
+2026-04-25 22:04:56,966 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:05:13,941 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:05:19,528 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:05:19,537 - __main__ - INFO - Auto-update for speaking vocabulary disabled
+2026-04-25 22:05:23,216 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:05:23,222 - __main__ - INFO - Auto-update for speaking vocabulary enabled
+2026-04-25 22:07:04,907 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:07:08,889 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:07:14,958 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:08:00,236 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:08:06,741 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:11:06,874 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:11:08,051 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:11:08,058 - __main__ - INFO - generate_dynamic_topics executed in 0.98 seconds
+2026-04-25 22:11:08,463 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:11:08,464 - __main__ - INFO - generate_dynamic_topics executed in 0.38 seconds
+2026-04-25 22:11:22,663 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:11:22,670 - __main__ - INFO - Auto-update for all content streams enabled
+2026-04-25 22:11:30,020 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:11:31,842 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:11:31,843 - __main__ - INFO - Daily speaking vocabulary fetched successfully
+2026-04-25 22:11:31,844 - __main__ - INFO - fetch_daily_content_from_internet executed in 1.82 seconds
+2026-04-25 22:11:31,844 - __main__ - ERROR - Error in update_daily_content: name 'VOCAB' is not defined
+2026-04-25 22:11:31,845 - __main__ - ERROR - Traceback (most recent call last):
+  File "c:\streamlit_app\app.py", line 32, in wrapper
+    return func(*args, **kwargs)
+  File "c:\streamlit_app\app.py", line 365, in update_daily_content
+    "vocabulary": content.get("vocabulary", VOCAB),
+                                            ^^^^^
+NameError: name 'VOCAB' is not defined
+
+2026-04-25 22:11:32,189 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:11:35,112 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:11:35,113 - __main__ - INFO - Daily speaking vocabulary fetched successfully
+2026-04-25 22:11:35,113 - __main__ - INFO - fetch_daily_content_from_internet executed in 2.92 seconds
+2026-04-25 22:11:35,113 - __main__ - ERROR - Error in update_daily_content: name 'VOCAB' is not defined
+2026-04-25 22:11:35,114 - __main__ - ERROR - Traceback (most recent call last):
+  File "c:\streamlit_app\app.py", line 32, in wrapper
+    return func(*args, **kwargs)
+  File "c:\streamlit_app\app.py", line 365, in update_daily_content
+    "vocabulary": content.get("vocabulary", VOCAB),
+                                            ^^^^^
+NameError: name 'VOCAB' is not defined
+
+2026-04-25 22:13:24,938 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:13:25,997 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:13:26,004 - __main__ - INFO - generate_dynamic_topics executed in 0.86 seconds
+2026-04-25 22:13:26,460 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:13:26,461 - __main__ - INFO - generate_dynamic_topics executed in 0.41 seconds
+2026-04-25 22:13:36,231 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:13:40,226 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:13:40,234 - __main__ - INFO - Auto-update for all content streams enabled
+2026-04-25 22:13:44,863 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:13:46,465 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:13:46,466 - __main__ - INFO - Daily speaking vocabulary fetched successfully
+2026-04-25 22:13:46,466 - __main__ - INFO - fetch_daily_content_from_internet executed in 1.60 seconds
+2026-04-25 22:13:46,466 - __main__ - INFO - Dynamic topics updated with daily content
+2026-04-25 22:13:46,466 - __main__ - INFO - All daily content streams updated successfully
+2026-04-25 22:13:46,467 - __main__ - INFO - Interaction: daily_content_update (Total: 1)
+2026-04-25 22:13:46,834 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:14:19,113 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:16,775 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:20,149 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:20,436 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:20,595 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:22,938 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:25,865 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:26,887 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:27,078 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:29,670 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:39,487 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:39,842 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:45,902 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:46,275 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:46,960 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:47,191 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:47,378 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:47,877 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:52,741 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:33:53,129 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:34:00,053 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:34:02,686 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:34:07,357 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:34:07,363 - __main__ - INFO - Auto-update for all content streams disabled
+2026-04-25 22:34:11,121 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:34:11,128 - __main__ - INFO - Auto-update for all content streams enabled
+2026-04-25 22:34:14,618 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:34:14,992 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:34:27,560 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:34:35,813 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:34:36,251 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:36:08,809 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:36:09,996 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:36:10,002 - __main__ - INFO - generate_dynamic_topics executed in 0.99 seconds
+2026-04-25 22:36:10,528 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:36:10,529 - __main__ - INFO - generate_dynamic_topics executed in 0.51 seconds
+2026-04-25 22:36:17,552 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:36:19,068 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:36:33,087 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:36:33,452 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:36:44,866 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:36:45,219 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:58:13,261 - services.ai_service - INFO - AIService initialized with model: llama-3.3-70b-versatile
+2026-04-25 22:58:13,270 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:58:14,971 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:58:14,981 - utils.cache - INFO - Cache set for key: topics_Intermediate
+2026-04-25 22:58:14,981 - utils.decorators - INFO - generate_dynamic_topics executed in 1.49 seconds
+2026-04-25 22:58:15,418 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:58:15,418 - utils.cache - INFO - Cache set for key: topics_Beginner
+2026-04-25 22:58:15,419 - utils.decorators - INFO - generate_dynamic_topics executed in 0.41 seconds
+2026-04-25 22:58:47,698 - services.ai_service - INFO - AIService initialized with model: llama-3.3-70b-versatile
+2026-04-25 22:58:47,706 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:58:48,948 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:58:48,956 - utils.cache - INFO - Cache set for key: topics_Intermediate
+2026-04-25 22:58:48,956 - utils.decorators - INFO - generate_dynamic_topics executed in 0.99 seconds
+2026-04-25 22:58:49,285 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:58:49,286 - utils.cache - INFO - Cache set for key: topics_Beginner
+2026-04-25 22:58:49,286 - utils.decorators - INFO - generate_dynamic_topics executed in 0.31 seconds
+2026-04-25 22:59:02,396 - services.ai_service - INFO - AIService initialized with model: llama-3.3-70b-versatile
+2026-04-25 22:59:02,413 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:59:19,336 - services.ai_service - INFO - AIService initialized with model: llama-3.3-70b-versatile
+2026-04-25 22:59:19,346 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 22:59:21,528 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 22:59:21,529 - services.content_service - INFO - Daily speaking vocabulary fetched successfully
+2026-04-25 22:59:21,530 - utils.decorators - INFO - fetch_daily_content_from_internet executed in 2.18 seconds
+2026-04-25 22:59:21,584 - services.ai_service - INFO - AIService initialized with model: llama-3.3-70b-versatile
+2026-04-25 22:59:21,594 - __main__ - INFO - Speak AI v2.0.0 starting in development mode
+2026-04-25 23:11:19,142 - __main__ - INFO - SpeakX v2.0.0 starting in development mode
+2026-04-25 23:11:20,422 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 23:11:20,430 - utils.cache - INFO - Cache set for key: topics_Intermediate
+2026-04-25 23:11:20,431 - utils.decorators - INFO - generate_dynamic_topics executed in 1.04 seconds
+2026-04-25 23:11:23,807 - __main__ - INFO - SpeakX v2.0.0 starting in development mode
+2026-04-25 23:11:23,932 - services.ai_service - INFO - AIService initialized with model: llama-3.3-70b-versatile
+2026-04-25 23:11:24,362 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 23:11:24,363 - utils.cache - INFO - Cache set for key: topics_Beginner
+2026-04-25 23:11:24,363 - utils.decorators - INFO - generate_dynamic_topics executed in 0.42 seconds
+2026-04-25 23:11:29,509 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 23:11:29,510 - utils.decorators - INFO - generate_dynamic_exercise executed in 1.92 seconds
+2026-04-25 23:11:36,105 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 23:11:36,107 - utils.decorators - INFO - generate_dynamic_vocabulary executed in 1.39 seconds
+2026-04-25 23:12:00,086 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 23:12:00,087 - services.content_service - INFO - Daily speaking vocabulary fetched successfully
+2026-04-25 23:12:00,087 - utils.decorators - INFO - fetch_daily_content_from_internet executed in 1.67 seconds
+2026-04-25 23:12:02,421 - __main__ - INFO - SpeakX v2.0.0 starting in development mode
+2026-04-25 23:12:06,775 - __main__ - INFO - SpeakX v2.0.0 starting in development mode
+2026-04-25 23:19:27,963 - __main__ - INFO - AMspeaker v2.0.0 starting in development mode
+2026-04-25 23:19:29,086 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 23:19:29,094 - utils.cache - INFO - Cache set for key: topics_Intermediate
+2026-04-25 23:19:29,094 - utils.decorators - INFO - generate_dynamic_topics executed in 0.89 seconds
+2026-04-25 23:19:34,285 - __main__ - INFO - AMspeaker v2.0.0 starting in development mode
+2026-04-25 23:19:38,692 - __main__ - INFO - AMspeaker v2.0.0 starting in development mode
+2026-04-25 23:19:42,768 - __main__ - INFO - AMspeaker v2.0.0 starting in development mode
+2026-04-25 23:19:42,897 - services.ai_service - INFO - AIService initialized with model: llama-3.3-70b-versatile
+2026-04-25 23:21:10,624 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 23:21:10,625 - services.content_service - INFO - Daily speaking vocabulary fetched successfully
+2026-04-25 23:21:10,625 - utils.decorators - INFO - fetch_daily_content_from_internet executed in 1.77 seconds
+2026-04-25 23:26:55,698 - __main__ - INFO - AMspeaker v2.0.0 starting in development mode
+2026-04-25 23:26:57,088 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 23:26:57,097 - utils.cache - INFO - Cache set for key: topics_Intermediate
+2026-04-25 23:26:57,097 - utils.decorators - INFO - generate_dynamic_topics executed in 1.17 seconds
+2026-04-25 23:26:59,546 - __main__ - INFO - AMspeaker v2.0.0 starting in development mode
+2026-04-25 23:26:59,664 - services.ai_service - INFO - AIService initialized with model: llama-3.3-70b-versatile
+2026-04-25 23:27:00,167 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-25 23:27:00,167 - utils.cache - INFO - Cache set for key: topics_Beginner
+2026-04-25 23:27:00,168 - utils.decorators - INFO - generate_dynamic_topics executed in 0.49 seconds
+2026-04-26 00:07:59,985 - __main__ - INFO - AMspeaker v2.0.0 starting in development mode
+2026-04-26 00:08:01,185 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-26 00:08:01,193 - utils.cache - INFO - Cache set for key: topics_Intermediate
+2026-04-26 00:08:01,194 - utils.decorators - INFO - generate_dynamic_topics executed in 0.97 seconds
+2026-04-26 00:08:07,486 - __main__ - INFO - AMspeaker v2.0.0 starting in development mode
+2026-04-26 00:08:07,609 - services.ai_service - INFO - AIService initialized with model: llama-3.3-70b-versatile
+2026-04-26 00:08:08,163 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-26 00:08:08,164 - utils.cache - INFO - Cache set for key: topics_Beginner
+2026-04-26 00:08:08,165 - utils.decorators - INFO - generate_dynamic_topics executed in 0.54 seconds
+2026-04-26 00:08:32,675 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-26 00:08:32,676 - services.content_service - INFO - Daily speaking vocabulary fetched successfully
+2026-04-26 00:08:32,676 - utils.decorators - INFO - fetch_daily_content_from_internet executed in 1.72 seconds
+2026-04-26 00:08:42,289 - __main__ - INFO - AMspeaker v2.0.0 starting in development mode
+2026-04-26 00:08:46,203 - __main__ - INFO - AMspeaker v2.0.0 starting in development mode
+2026-04-26 00:09:38,415 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-26 00:09:38,418 - services.ai_service - INFO - AI response generated successfully for user: break the ice
+...
+2026-04-26 00:09:38,419 - utils.decorators - INFO - ask_ai_teacher executed in 0.99 seconds
+2026-04-26 00:09:38,419 - utils.analytics - INFO - Interaction: conversation (Total: 1)
+2026-04-26 00:16:27,473 - __main__ - INFO - AMspeaker v2.0.0 starting in development mode
+2026-04-26 00:16:28,967 - __main__ - INFO - AMspeaker v2.0.0 starting in development mode
+2026-04-26 00:37:53,431 - __main__ - INFO - AMspeaker v2.0.0 starting in development mode
+2026-04-26 00:37:54,959 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-26 00:37:54,975 - utils.cache - INFO - Cache set for key: topics_Intermediate
+2026-04-26 00:37:54,975 - utils.decorators - INFO - generate_dynamic_topics executed in 1.25 seconds
+2026-04-26 00:38:22,115 - __main__ - INFO - AMspeaker v2.0.0 starting in development mode
+2026-04-26 00:38:22,744 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-04-26 00:38:22,745 - utils.cache - INFO - Cache set for key: topics_Intermediate
+2026-04-26 00:38:22,745 - utils.decorators - INFO - generate_dynamic_topics executed in 0.62 seconds
