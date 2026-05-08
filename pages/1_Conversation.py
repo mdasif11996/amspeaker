@@ -2,6 +2,7 @@ import streamlit as st
 from datetime import datetime
 from services import AIService, ContentService
 from ui.voice import speak_button, browser_speech_input
+from ui.ai_voice import ai_voice_player, voice_selector, get_voice_info
 from utils import AnalyticsManager
 from ui.styles import apply_custom_styles
 from ui.navigation import render_page_header
@@ -40,9 +41,9 @@ render_page_header("Conversation Practice", "💬", "Natural AI conversations wi
 
 # Initialize services
 if "ai_service" not in st.session_state:
-    st.session_state.ai_service = AIService()
+    st.session_state.ai_service = AIService(api_key=st.session_state.get("api_key"))
 if "content_service" not in st.session_state:
-    st.session_state.content_service = ContentService()
+    st.session_state.content_service = ContentService(api_key=st.session_state.get("api_key"))
 if "analytics" not in st.session_state:
     st.session_state.analytics = AnalyticsManager()
 
@@ -72,6 +73,12 @@ if "memory" not in st.session_state:
 
 if "last_feedback" not in st.session_state:
     st.session_state.last_feedback = "Welcome to AMspeaker! I'm here to help you improve your spoken English. Let's practice together!"
+
+if "ai_voice" not in st.session_state:
+    st.session_state.ai_voice = "alloy"
+
+if "auto_speak_ai" not in st.session_state:
+    st.session_state.auto_speak_ai = False
 
 st.markdown("---")
 
@@ -186,7 +193,54 @@ with col1:
                 st.info("Good fluency - aim for more natural flow")
             
             st.markdown("### 🎧 AI Voice Response")
-            speak_button(feedback, "🔊 Play AI Voice Response")
+            
+            # AI Voice Selection
+            st.markdown("#### Choose AI Voice")
+            if "ai_voice" not in st.session_state:
+                st.session_state.ai_voice = "alloy"
+            
+            col_voice1, col_voice2 = st.columns([2, 1])
+            with col_voice1:
+                selected_voice = st.selectbox(
+                    "Select AI Voice:",
+                    options=list(get_voice_info().keys()),
+                    index=list(get_voice_info().keys()).index(st.session_state.ai_voice) if st.session_state.ai_voice in get_voice_info() else 0,
+                    key="ai_voice_selector"
+                )
+                st.session_state.ai_voice = selected_voice
+            
+            with col_voice2:
+                if st.button("🔄 Reset Voice", help="Reset to default voice", key="reset_voice"):
+                    st.session_state.ai_voice = "alloy"
+                    st.rerun()
+            
+            # Display voice info
+            voice_info = get_voice_info()
+            current_voice_info = voice_info.get(st.session_state.ai_voice, voice_info["alloy"])
+            st.markdown(f"""
+            <div style="background: rgba(14, 165, 233, 0.1); padding: 12px; border-radius: 8px; margin: 8px 0;">
+                <strong>🎙️ Current Voice:</strong> {current_voice_info["name"]}
+                <br><small>{current_voice_info["description"]}</small>
+            </div>
+            """, unsafe_allow_html=True)
+            
+            # AI Voice Player with OpenAI TTS
+            st.markdown("#### AI Voice Player (OpenAI Enhanced)")
+            
+            # Auto-speak toggle
+            auto_speak = st.checkbox(
+                "🔊 Auto-play AI responses",
+                value=st.session_state.get("auto_speak_ai", False),
+                help="Automatically play AI responses using OpenAI's natural voice"
+            )
+            st.session_state.auto_speak_ai = auto_speak
+            
+            ai_voice_html = ai_voice_player(
+                text=feedback,
+                voice=st.session_state.ai_voice,
+                auto_play=auto_speak
+            )
+            st.markdown(ai_voice_html, unsafe_allow_html=True)
             
             st.markdown("---")
             st.markdown("### 📝 Fluency Feedback Summary")
